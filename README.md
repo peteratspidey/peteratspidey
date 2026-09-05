@@ -1,4 +1,13 @@
 <p align="center">
+  <img src="./matrix-rain.gif" width="100%">
+</p>
+
+<h1 align="center">V I V E K&nbsp;&nbsp;P R A K A S H</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+ONLINE;%3E+ACCESS+GRANTED;%3E+DEVELOPER+MODE+ACTIVATED;%3E+BUILDING...">
+</p>
+<p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=850&lines=WAKE+UP%2C+VIVEK...;THE+MATRIX+HAS+YOU.;SYSTEM+ONLINE.;ACCESS+GRANTED.;WELCOME+TO+THE+REAL+WORLD." alt="Matrix Terminal"/>
 
